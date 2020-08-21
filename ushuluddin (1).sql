@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 09 Jun 2020 pada 11.23
+-- Waktu pembuatan: 13 Apr 2020 pada 18.14
 -- Versi server: 10.4.11-MariaDB
 -- Versi PHP: 7.3.13
 
@@ -375,26 +375,7 @@ INSERT INTO `cms_logs` (`id`, `ipaddress`, `useragent`, `url`, `description`, `d
 (224, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/menu_management/edit-save/20', 'Update data Akun Management at Menu Management', '<table class=\"table table-striped\"><thead><tr><th>Key</th><th>Old Value</th><th>New Value</th></thead><tbody><tr><td>sorting</td><td>8</td><td></td></tr></tbody></table>', 7, '2020-04-11 08:47:45', NULL),
 (225, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'admin@fu.uinsgd.com logout', '', 7, '2020-04-11 08:48:07', NULL),
 (226, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'fariz.herman@gmail.com login with IP Address 127.0.0.1', '', 1, '2020-04-11 08:49:57', NULL),
-(227, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'fariz.herman@gmail.com logout', '', 1, '2020-04-11 08:52:09', NULL),
-(228, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'admin@fu.uinsgd.com login with IP Address 127.0.0.1', '', 7, '2020-04-18 11:08:57', NULL),
-(229, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'admin@fu.uinsgd.com logout', '', 7, '2020-04-18 11:40:03', NULL),
-(230, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'fariz.herman@gmail.com login with IP Address 127.0.0.1', '', 1, '2020-04-18 12:08:58', NULL),
-(231, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'fariz.herman@gmail.com login with IP Address 127.0.0.1', '', 1, '2020-04-19 13:01:35', NULL),
-(232, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'fariz.herman@gmail.com logout', '', 1, '2020-04-19 13:02:40', NULL),
-(233, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'pegawai1@gmail.com login with IP Address 127.0.0.1', '', 8, '2020-04-19 13:02:54', NULL),
-(234, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'pegawai1@gmail.com logout', '', 8, '2020-04-19 13:03:36', NULL),
-(235, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'pegawai2@gmail.com login with IP Address 127.0.0.1', '', 9, '2020-04-19 13:04:02', NULL),
-(236, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'pegawai2@gmail.com logout', '', 9, '2020-04-19 19:48:00', NULL),
-(237, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'admin@fu.uinsgd.com login with IP Address 127.0.0.1', '', 7, '2020-04-19 19:48:06', NULL),
-(238, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'admin@fu.uinsgd.com logout', '', 7, '2020-04-19 19:49:08', NULL),
-(239, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'fariz.herman@gmail.com login with IP Address 127.0.0.1', '', 1, '2020-04-19 19:49:16', NULL),
-(240, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'fariz.herman@gmail.com logout', '', 1, '2020-04-19 19:50:13', NULL);
-INSERT INTO `cms_logs` (`id`, `ipaddress`, `useragent`, `url`, `description`, `details`, `id_cms_users`, `created_at`, `updated_at`) VALUES
-(241, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'pegawai1@gmail.com login with IP Address 127.0.0.1', '', 8, '2020-04-19 19:50:25', NULL),
-(242, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'pegawai1@gmail.com logout', '', 8, '2020-04-19 20:19:57', NULL),
-(243, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'admin@fu.uinsgd.com login with IP Address 127.0.0.1', '', 7, '2020-04-19 20:21:06', NULL),
-(244, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'admin@fu.uinsgd.com logout', '', 7, '2020-04-19 20:22:28', NULL),
-(245, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/login', 'pegawai1@gmail.com login with IP Address 127.0.0.1', '', 8, '2020-04-19 20:22:38', NULL);
+(227, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36', 'http://127.0.0.1:8000/admin/logout', 'fariz.herman@gmail.com logout', '', 1, '2020-04-11 08:52:09', NULL);
 
 -- --------------------------------------------------------
 
@@ -1529,7 +1510,7 @@ ALTER TABLE `cms_email_templates`
 -- AUTO_INCREMENT untuk tabel `cms_logs`
 --
 ALTER TABLE `cms_logs`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=246;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=228;
 
 --
 -- AUTO_INCREMENT untuk tabel `cms_menus`
